@@ -1,0 +1,12 @@
+/.idea
+
+.env
+
+/data/raw/
+/data/raw/recipe1m/
+/outputs/embeddings/
+/outputs/models/
+/outputs/faiss_index/
+
+__pycache__/
+*.pyc
