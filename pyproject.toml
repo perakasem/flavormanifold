@@ -1,7 +1,7 @@
 [project]
-name = "my-project"
+name = "flavor manifold"
 version = "0.1.0"
-description = "A short description of my project"
+description = "an end to end data-driven flavor manipulation pipeline"
 dependencies = [
     "tqdm>=4.67.3",
 ]
